@@ -1,0 +1,103 @@
+.body{
+	margin: 0 auto;
+}
+
+#title {
+	font-size:4em;
+	margin:auto;
+	width:100%;
+	text-align: center;
+
+
+}
+
+.article{
+	margin: 20px;
+}
+
+.artHead {
+	margin:auto;
+	width:100%;
+	text-align: center;
+}
+.img {
+	display: block;
+	margin: auto;
+	border-radius: 10%
+}
+nav li {
+	list-style: none;
+	margin-left: 94%;
+}
+
+.footerEnd,
+.footer{
+	text-align: center;
+}
+
+#art1 {
+	background-color: #3a3335;
+	color:#c6d8d3;
+	border-radius: 20%;
+}
+
+#art1 section {
+	margin: 16px 60px;
+
+}
+
+#art2 {
+	background-color: #d81e5b;
+	color: #fdf0d5;
+	border-radius: 40% 20%;
+	border: 7px dotted #fdf0d5;
+}
+
+#art2 section {
+	margin: 10px 100px;
+}
+
+#art3 {
+	background-color: #f0544f;
+	color: #3a3335;
+	border-radius: 100%;
+	border: 10px solid #3a3335;
+}
+
+#art3 section {
+	margin: 0 350px;
+}
+
+#art4 {
+	background-color: #c6d8d3;
+	color: #d81e5b;
+	border-radius: 400px 30px;
+	border: 3px solid #d81e5b;
+}
+.cane {
+	border-radius: 100%;
+}
+
+#art4 section {
+	margin-left: 50px;
+	margin-right: 200px;
+}
+
+#art5 {
+	background-color: #fdf0d5;
+	color: #f0544f;
+	border-radius: 50px;
+	border: 1px dashed #f0544f;
+}
+
+
+
+
+
+
+
+
+
+
+
+https://coolors.co/app/ #3a3335 -d81e5b-f0544f-fdf0d5-c6d8d3
