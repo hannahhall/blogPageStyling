@@ -39,6 +39,7 @@ nav li {
 	background-color: #3a3335;
 	color:#c6d8d3;
 	border-radius: 20%;
+	font-family: sans-serif;
 }
 
 #art1 section {
@@ -51,6 +52,7 @@ nav li {
 	color: #fdf0d5;
 	border-radius: 40% 20%;
 	border: 7px dotted #fdf0d5;
+	font-family: fantasy;
 }
 
 #art2 section {
@@ -62,6 +64,7 @@ nav li {
 	color: #3a3335;
 	border-radius: 100%;
 	border: 10px solid #3a3335;
+	font-family: monospace;
 }
 
 #art3 section {
@@ -73,6 +76,7 @@ nav li {
 	color: #d81e5b;
 	border-radius: 400px 30px;
 	border: 3px solid #d81e5b;
+	font-family: cursive;
 }
 .cane {
 	border-radius: 100%;
@@ -88,6 +92,7 @@ nav li {
 	color: #f0544f;
 	border-radius: 50px;
 	border: 1px dashed #f0544f;
+	font-family: Herculanum;
 }
 
 
